@@ -214,3 +214,42 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+
+/* PEDREK */
+
+.ped1 {
+    height: 700px;
+    width: 850px;
+    padding: 25px;
+    border: 2px solid #FDCED5;
+    margin: 2.5px;
+    margin-bottom: 50px;
+    background-image: url(images/pedrek1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.ped2 {
+    height: 700px;
+    width: 850px;
+    padding: 25px;
+    border: 2px solid #FDCED5;
+    margin: 2.5px;
+    margin-bottom: 50px;
+    background-image: url(images/pedrek2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.ped3 {
+    height: 700px;
+    width: 850px;
+    padding: 25px;
+    border: 2px solid #FDCED5;
+    margin: 2.5px;
+    margin-bottom: 50px;
+    background-image: url(images/pedrek3.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
